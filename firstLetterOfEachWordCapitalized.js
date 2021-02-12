@@ -20,7 +20,7 @@ function titleCase(str) {
            else {
             transformedSentence+=arrSepWords[i][j];
            }
-       }transformedSentence+=" ";
+       }
     }
     console.log(transformedSentence);  
     console.log(arrSepWords);
